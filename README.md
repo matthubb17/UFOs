@@ -1,7 +1,5 @@
 # UFOs
 
-# surfs_up
-
 ## Project Overview:
 
 The goal of this project was to create a dynamic website that shows information about UFO sightings. The website has filters that the user can use to sift through the data. They can sort by date, city, state, country, and shape.
