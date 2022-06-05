@@ -18,7 +18,7 @@ The goal of this project was to create a dynamic website that shows information 
 
 ![Main Webpage](https://github.com/matthubb17/UFOs/blob/main/static/images/Main%20UFO%20Webpage.png)
 
-- When looking at the filters on the left of the webpage a user can input data in any of the filters. Once the data is input the table will be updated to show data based on the criteria that was input in the filters. Below you can see an example of filtering to a specific date.
+- When looking at the filters on the left of the webpage a user can input data in any of the filters. Once the data is input, the table will be updated to show data based on the criteria that was input in the filters. Below you can see an example of filtering to a specific date.
 
 ![Filtered Webpage](https://github.com/matthubb17/UFOs/blob/main/static/images/Filter%20and%20Table.png)
 
